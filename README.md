@@ -1,3 +1,3 @@
 # Lily
 This is my first project.<br>
-Author - Shantanu chhetri
+Author - Shantanu Chhetri
